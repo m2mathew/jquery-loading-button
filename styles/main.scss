@@ -5,14 +5,20 @@ body {
 
 #title-text {
     color: #eee;
-    float: left;
+    padding-left: 1em;
 }
 
 div {
-
     background-color: #A489A3;
     border-radius: 5px;
 
+    &:first-child {
+        text-align: left;
+        font-family: 'Palatino Linotype';
+        margin-bottom: 10px;
+        background-color: #A489B4;
+        padding: 10px auto;
+    }
 
     #loading-button {
         width: 30%;
