@@ -1,0 +1,22 @@
+body {
+  background-color: #220533;
+  text-align: center; }
+
+#title-text {
+  color: #eee;
+  float: left; }
+
+div {
+  background-color: #A489A3;
+  border-radius: 5px; }
+  div #loading-button {
+    width: 30%;
+    height: 8em;
+    margin: 15em auto;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 1.25em;
+    font-family: Input Mono;
+    font-weight: 600;
+    border: 2px solid #111;
+    box-shadow: 3px 3px 6px #222; }
