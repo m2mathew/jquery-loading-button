@@ -21,5 +21,4 @@ $loadingButton.on('click', loadingTime);
 
 },{}]},{},[1])
 
-
 //# sourceMappingURL=bundle.js.map
